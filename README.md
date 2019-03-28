@@ -1,2 +1,5 @@
 # PROJ_Unity_Platformer
-“Life's but a walking shadow, a poor player, That struts and frets his hour upon the stage, And then is heard no more. It is a tale Told by an idiot, full of sound and fury, Signifying nothing.” 
+Hello and welcome to my Project.
+This is where i will be updating and keep track of my unity game.
+Cheers...
+
